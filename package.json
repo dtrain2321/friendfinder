@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtrain2321/friendfinder.git"
+  },
+  "author": "derek stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtrain2321/friendfinder/issues"
+  },
+  "homepage": "https://github.com/dtrain2321/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "require": "^2.4.20"
+  }
+}
